@@ -1,0 +1,6 @@
+export class User {
+    id: number;
+    nom: string;
+    email: string;
+    age: number;
+  }
